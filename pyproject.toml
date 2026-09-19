@@ -1,0 +1,13 @@
+[project]
+name = "launch-analysis"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.2",
+    "pandas>=3.0.6",
+    "python-docx>=1.2.0",
+    "requests>=2.34.2",
+    "scikit-learn>=1.9.1",
+    "seaborn>=0.13.2",
+]
