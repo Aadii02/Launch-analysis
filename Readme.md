@@ -2,7 +2,7 @@
 
 An analysis of 1,500 completed rocket launches, using data from [Launch Library 2](https://thespacedevs.com/llapi) by The Space Devs. The window runs from part of 2020 to 19 September 2026. It covers the most recent launches in the database, not the full archive, so read the numbers as a snapshot of this period.
 
-The full write-up is in [`reports/global_launch_activity_2020-2026.pdf`](reports/global_launch_activity_2020-2026.pdf).
+The full write-up is in [`reports/global_launch_activity_2002-2026.pdf`](reports/global_launch_activity_2020-2026.pdf).
 
 ## Findings
 
